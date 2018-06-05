@@ -1,0 +1,36 @@
+{
+  "leadership": [
+    {
+      "id": 0,
+      "name": "Joseph Maglaqui",
+      "image": "images/alberto.png",
+      "designation": "Chief Executive Officer",
+      "abbr": "CEO",
+      "description": "Our CEO, Joseph, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He is a graduate from the French Culiniary Institute in New York CIty."
+    },
+    {
+      "id": 1,
+      "name": "Jason Maglaqui",
+      "image": "images/assistant.png",
+      "designation": "First assistant to the Chef",
+      "abbr": "Assistant",
+      "description": "Jason is the identical twin brother to Joseph. He is a fitness instructor and a member of the army reserve. Both brothers were defensive line men in their school playing on the same team. Imagine identical twins coming after the quarterback!"
+    },
+    {
+      "id": 2,
+      "name": "Jeffrey Fama",
+      "image": "images/assistant.png",
+      "designation": "Second assistant to the Chef",
+      "abbr": "Assistant",
+      "description": "Blessed with the most discerning gustatory sense, Jeffrey personally ensures that every type of cake meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, great quality only."
+    },
+    {
+      "id": 3,
+      "name": "Assistants to the Chef",
+      "image": "images/assistant.png",
+      "designation": "Assistant",
+      "abbr": "Assistant",
+      "description": "A hard working and fun loving group of relatives and friends. They work diligently on ensuring only the highest standards are applied to the cake making. At the same time, keeping things fun around the kitchen"
+    }
+  ]
+}

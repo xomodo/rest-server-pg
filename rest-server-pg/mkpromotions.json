@@ -1,0 +1,12 @@
+{
+   "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Cake Fiesta",
+      "image": "images/buffet.png",
+      "label": "New",
+      "price": "400.99",
+      "description": "Featuring mouth watering combinations of 3 choices of cakes. Selection includes birthday cakes, cup cakes or cakes for special occasions (wedding cakes not included) "
+    }
+  ]
+ }

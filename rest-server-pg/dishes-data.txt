@@ -1,0 +1,40 @@
+{
+      "name": "Uthapizza",
+      "image": "images/uthapizza.png",
+      "category": "mains",
+      "label": "Hot",
+      "price": "4.99",
+      "description": "A unique . . ." 
+	  }
+	  
+	  
+	  
+	  Promotions
+	  
+	  {
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "label": "New",
+      "price": "19.99",
+      "description": "Featuring . . ."
+}
+
+
+Leaders
+
+{
+      "name": "Peter Pan",
+      "image": "images/alberto.png",
+      "designation": "Chief Epicurious Officer",
+      "abbr": "CEO",
+      "description": "Our CEO, Peter, . . ."
+}
+
+
+users
+
+{
+      "username": "muppala",
+      "password": "abcdef"
+      
+}
